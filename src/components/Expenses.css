@@ -5,3 +5,10 @@
     width: 50rem;
     max-width: 95%;
   }
+
+.expenses__header {
+    text-align: center;
+    color: #fff;
+    font-size: 2rem;
+    margin: 2rem 0;
+}
